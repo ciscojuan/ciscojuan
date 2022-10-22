@@ -2,6 +2,10 @@
 <h3 align="center">Security Analyst and Web Developer</h3>
 -<p align="center">I am a Software Engineer focusing on Web development Aplications and Cybersecurity, most of Web projects I  developed, had been made on JavaScript technologies such as Angular, React and Node js however, I am keen on to get into another ones. I liked learning and to being  updated on  upcoming technologies </>
 - 🌱 I’m currently learning **Javascript Technologies**
+<p align="center">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=ciscojuan.visitor-badge&left_text=you%20are%20the%20Visitor%20#">
+</p>
+
 
 - 💬 Ask me about **React, Angular, Node JS, Next JS**
 
