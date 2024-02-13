@@ -6,9 +6,6 @@
  <img src="https://visitor-badge.glitch.me/badge?page_id=ciscojuan.visitor-badge&left_text=you%20are%20the%20Visitor%20#">
 </p>
 
-
-- 💬 Ask me about **React, Angular, Node JS, Next JS**
-
 <h3 align="left">Languages and Tools:</h3>
 <h2>JAVASCRIPT</h2>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
