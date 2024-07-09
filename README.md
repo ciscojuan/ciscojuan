@@ -1,5 +1,5 @@
 # 💫 HI,
-I am a Software Engineer focusing on Web development Aplications and Cybersecurity, most of Web projects I developed, had been made on JavaScript technologies such as Angular, React and Node js however, I am keen on to get into another ones. I liked learning and to being updated on upcoming technologies - 🌱 I’m currently learning **Javascript Technologies**
+I am a Sistem Engineer focusing on Web development Aplications and Cybersecurity, most of Web projects I developed, had been made on JavaScript technologies such as Angular, React and Node js however, I am keen on to get into another ones. I liked learning and to being updated on upcoming technologies - 🌱 I’m currently learning **Javascript Technologies**
 
 
 ## 🌐 Socials:
